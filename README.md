@@ -1,0 +1,1 @@
+# wp-admin-hide-posts-comments
